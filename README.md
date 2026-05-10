@@ -27,7 +27,7 @@ Create CI/CD pipeline using jenkinsfile to deploy simple django web app as a mic
 - notification: send slack message with the build status
 
 
-7- configure job in jenkins using multibranch pipeline type with the forked git repo url
+7- configure job in jenkins using multibranch pipeline type with the forked git repo url.
 
 
 
